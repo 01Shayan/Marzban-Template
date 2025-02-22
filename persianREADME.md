@@ -2,7 +2,7 @@ Persian l [English](/README.md)
 
 <p align="center">
   <a href="https://github.com/01Shayan/Marzban-Template" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/01Shayan/Marzban-Template/main/PreviewTemplate.png" title="Marzban Template"/>
+    <img src="https://raw.githubusercontent.com/01Shayan/Marzban-Template/main/PreviewTemplate.png" title="Marzban-Template"/>
   </a>
 </p>
 <h1 align="center"/>قالب سابسکریپشن برای پنل  <a href="https://github.com/Gozargah/Marzban">مرزبان</a></h1>
@@ -56,6 +56,7 @@ marzban restart
   <option value="fa">فارسی</option>
   <option value="en">English</option>
   <option value="ru">Русский</option>
+  <option value="zh">中文</option>
 </select>
 ```
 در این مثال زبان اصلی فارسی است.
@@ -134,9 +135,10 @@ To update the template, just repeat step 1.
 To change the default language, just refer to the end of the code in the html file and select the desired language in the select tag. Example:
 ```
 <select id="countries" class="border text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 bg-gray-700 border-gray-600 placeholder-gray-400 text-white :focus:ring-blue-500 :focus:border blue-500">
-  <option value="en">English</option>
   <option value="fa">فارسی</option>
+  <option value="en">English</option>
   <option value="ru">Русский</option>
+  <option value="zh">中文</option>
 </select>
 ```
 In this example, the main language is English.
@@ -157,7 +159,7 @@ images/marzban.svg
 ```
 Search for the background image:
 ```
-background: url('https://4kwallpapers.com
+background: url('https://4kwallpapers.com)
 ```
 After making changes, save the file and restart Marzban.
 

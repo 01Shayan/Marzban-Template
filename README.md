@@ -1,7 +1,7 @@
 English l [Persian](/persianREADME.md)
 <p align="center">
-  <a href="https://github.com/x0sina/marzban-sub" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/x0sina/marzban-sub/main/PreviewTemplate.png" title="Marzban-Sub"/>
+  <a href="https://github.com/01Shayan/Marzban-Template" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/01Shayan/Marzban-Template/main/PreviewTemplate.png" title="Marzban-Template"/>
   </a>
 </p>
 <h1 align="center">Subscription Template for <a href="https://github.com/Gozargah/Marzban">Marzban Panel</a></h1>
@@ -26,7 +26,7 @@ A simple HTML template for better display of user information.
 # Installation Steps
 1. Download the template file:
 ```sh
-sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/x0sina/marzban-sub/main/index.html
+sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/01Shayan/Marzban-Template/main/index.html
 ```
 
 2.	Run the following commands in your server terminal:
