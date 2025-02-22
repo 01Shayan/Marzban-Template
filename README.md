@@ -59,6 +59,7 @@ To change the default language, go to the end of the HTML file and adjust the se
   <option value="fa">فارسی</option>
   <option value="en">English</option>
   <option value="ru">Русский</option>
+  <option value="zh">中文</option
 </select>
 ```
 
@@ -80,7 +81,7 @@ images/marzban.svg
 ```
 Search for the background image:
 ```
-background: url('https://4kwallpapers.com
+background: url('https://4kwallpapers.com)
 ```
 After making changes, save the file and restart Marzban.
 
